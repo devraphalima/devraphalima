@@ -1,0 +1,66 @@
+<svg width="800" height="60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @media (prefers-color-scheme: dark) { text { fill: #c9d1d9; } }
+    @media (prefers-color-scheme: light) { text { fill: #24292e; } }
+    
+    @keyframes fontSwitch1 { 0% { font-family: 'Bookman Old Style'; } 20% { font-family: 'Georgia'; } 40% { font-family: 'Verdana'; } 60% { font-family: 'Comic Sans MS'; } 80% { font-family: 'Verdana'; } 100% { font-family: 'Palatino Linotype'; } }
+    @keyframes fontSwitch2 { 0% { font-family: 'Comic Sans MS'; } 20% { font-family: 'Bookman Old Style'; } 40% { font-family: 'Impact'; } 60% { font-family: 'Lucida Console'; } 80% { font-family: 'Lucida Console'; } 100% { font-family: 'Comic Sans MS'; } }
+    @keyframes fontSwitch3 { 0% { font-family: 'Palatino Linotype'; } 20% { font-family: 'Palatino Linotype'; } 40% { font-family: 'Garamond'; } 60% { font-family: 'Trebuchet MS'; } 80% { font-family: 'Bookman Old Style'; } 100% { font-family: 'Georgia'; } }
+    @keyframes fontSwitch4 { 0% { font-family: 'Garamond'; } 20% { font-family: 'Impact'; } 40% { font-family: 'Comic Sans MS'; } 60% { font-family: 'Lucida Console'; } 80% { font-family: 'Arial'; } 100% { font-family: 'Comic Sans MS'; } }
+    @keyframes fontSwitch5 { 0% { font-family: 'Courier New'; } 20% { font-family: 'Garamond'; } 40% { font-family: 'Trebuchet MS'; } 60% { font-family: 'Impact'; } 80% { font-family: 'Trebuchet MS'; } 100% { font-family: 'Courier New'; } }
+    @keyframes fontSwitch6 { 0% { font-family: 'Lucida Console'; } 20% { font-family: 'Garamond'; } 40% { font-family: 'Garamond'; } 60% { font-family: 'Palatino Linotype'; } 80% { font-family: 'Courier New'; } 100% { font-family: 'Arial'; } }
+    @keyframes fontSwitch7 { 0% { font-family: 'Trebuchet MS'; } 20% { font-family: 'Trebuchet MS'; } 40% { font-family: 'Verdana'; } 60% { font-family: 'Bookman Old Style'; } 80% { font-family: 'Courier New'; } 100% { font-family: 'Comic Sans MS'; } }
+    @keyframes fontSwitch8 { 0% { font-family: 'Impact'; } 20% { font-family: 'Arial'; } 40% { font-family: 'Consolas'; } 60% { font-family: 'Bookman Old Style'; } 80% { font-family: 'Verdana'; } 100% { font-family: 'Consolas'; } }
+    @keyframes fontSwitch9 { 0% { font-family: 'Palatino Linotype'; } 20% { font-family: 'Trebuchet MS'; } 40% { font-family: 'Garamond'; } 60% { font-family: 'Lucida Console'; } 80% { font-family: 'Impact'; } 100% { font-family: 'Impact'; } }
+    @keyframes fontSwitch10 { 0% { font-family: 'Impact'; } 20% { font-family: 'Georgia'; } 40% { font-family: 'Times New Roman'; } 60% { font-family: 'Impact'; } 80% { font-family: 'Georgia'; } 100% { font-family: 'Bookman Old Style'; } }
+    
+    .l0 { animation: fontSwitch2 1.7s infinite; }
+    .l1 { animation: fontSwitch3 2.5s infinite; }
+    .l2 { animation: fontSwitch7 1.6s infinite; }
+    
+    .l4 { animation: fontSwitch2 1.5s infinite; }
+    .l5 { animation: fontSwitch5 2.5s infinite; }
+    .l6 { animation: fontSwitch5 1.5s infinite; }
+    
+    .l8 { animation: fontSwitch7 2.6s infinite; }
+    .l9 { animation: fontSwitch10 1.2s infinite; }
+    .l10 { animation: fontSwitch5 2.5s infinite; }
+    .l11 { animation: fontSwitch5 2.3s infinite; }
+    
+    .l13 { animation: fontSwitch10 1.2s infinite; }
+    
+    .l15 { animation: fontSwitch8 2.6s infinite; }
+    .l16 { animation: fontSwitch7 2.6s infinite; }
+    .l17 { animation: fontSwitch2 1.6s infinite; }
+    .l18 { animation: fontSwitch2 1.1s infinite; }
+    .l19 { animation: fontSwitch10 2.3s infinite; }
+    .l20 { animation: fontSwitch2 2.9s infinite; }
+    .l21 { animation: fontSwitch2 1.9s infinite; }
+    .l22 { animation: fontSwitch3 2.3s infinite; }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="32" font-weight="bold">
+    <tspan class='l0'>O</tspan>
+    <tspan class='l1'>i</tspan>
+    <tspan class='l2'>,</tspan>
+    <tspan xml:space="preserve"> </tspan>
+    <tspan class='l4'>m</tspan>
+    <tspan class='l5'>e</tspan>
+    <tspan class='l6'>u</tspan>
+    <tspan xml:space="preserve"> </tspan>
+    <tspan class='l8'>n</tspan>
+    <tspan class='l9'>o</tspan>
+    <tspan class='l10'>m</tspan>
+    <tspan class='l11'>e</tspan>
+    <tspan xml:space="preserve"> </tspan>
+    <tspan class='l13'>é</tspan>
+    <tspan xml:space="preserve"> </tspan>
+    <tspan class='l15'>R</tspan>
+    <tspan class='l16'>a</tspan>
+    <tspan class='l17'>p</tspan>
+    <tspan class='l18'>h</tspan>
+    <tspan class='l19'>a</tspan>
+    <tspan class='l20'>e</tspan>
+    <tspan class='l21'>l</tspan>
+    <tspan class='l22'>!</tspan>
+  </text>
+</svg>
