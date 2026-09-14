@@ -33,7 +33,7 @@
   <a href="https://www.instagram.com/raphaferreiralldev/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:raphaelferreiralldev@gmail.com">
+  <a href="mailto:devraphalima@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" />
   </a>
 </p>
