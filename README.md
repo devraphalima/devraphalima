@@ -1,43 +1,24 @@
 <h1 align="center"><img src="./title.svg" alt="Oi, meu nome é Raphael!" height="50px" style="vertical-align: middle;"></h1>
-
-
-
-<p align="left"><img src="./tecnologias-heading.svg" alt="Tecnologias" height="40px" /></p>
-
-<p align="center"><img src="./linguagens-heading.svg" alt="linguagens" height="40px" /></p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-
-<img src="./cheshire.gif" alt="Cheshire" width="2" align="left" style="margin-right: 16px; margin-top: 6px;" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" />
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
 </p>
 
-<p align="center"><img src="./frontend-heading.svg" alt="Frontend" height="40px" /></p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
-
-</p>
-
-<p align="center"><img src="./versionamento-heading.svg" alt="versionamento" height="40px" /></p>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" />
-
-</p>
-
-<details align="center">
-  <summary><b>🕹️ CLAW MACHINE — Clique aqui para jogar uma ficha e descer a garra! 🧸</b></summary>
-  <br />
-  <p align="center">
-    <img src="./claw-machine.svg" alt="Claw Machine Arcade" width="460" />
-    <br />
-    <i>🎉 <b>PARABÉNS!</b> Você pegou um bichinho pixel art exclusivo!</i>
-  </p>
-</details>
+<br /><br /><br /><br />
 
 <p align="left"><img src="./contato-heading.svg" alt="Contato" height="40px" /></p>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/raphael-ferreirall-dev/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
