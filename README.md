@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./title.svg" alt="Oi, meu nome é Raphael!" height="50px" style="vertical-align: middle;"></h1>
+<h1 align="center"><img src="./title.svg" alt="Olá, meu nome é Raphael!" height="50px" style="vertical-align: middle;"></h1>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
