@@ -7,14 +7,15 @@
 <p align="center"><img src="./linguagens-heading.svg" alt="linguagens" height="40px" /></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
 
 <img src="./cheshire.gif" alt="Cheshire" width="2" align="left" style="margin-right: 16px; margin-top: 6px;" />
 </p>
 
 <p align="center"><img src="./frontend-heading.svg" alt="Frontend" height="40px" /></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
 
 </p>
 
