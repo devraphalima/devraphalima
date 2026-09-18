@@ -26,6 +26,16 @@
 
 </p>
 
+<details align="center">
+  <summary><b>🕹️ CLAW MACHINE — Clique aqui para jogar uma ficha e descer a garra! 🧸</b></summary>
+  <br />
+  <p align="center">
+    <img src="./claw-machine.svg" alt="Claw Machine Arcade" width="460" />
+    <br />
+    <i>🎉 <b>PARABÉNS!</b> Você pegou um bichinho pixel art exclusivo!</i>
+  </p>
+</details>
+
 <p align="left"><img src="./contato-heading.svg" alt="Contato" height="40px" /></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/raphael-ferreirall-dev/">
@@ -43,5 +53,3 @@
   <img src="./robert2.webp" alt="Personagem KOF 2" width="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./giff97.webp" alt="Personagem KOF 3" width="40" />
 </p>
-
-
