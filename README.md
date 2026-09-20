@@ -55,4 +55,6 @@
   <img src="./robert2.webp" alt="Personagem KOF 2" width="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./giff97.webp" alt="Personagem KOF 3" width="40" />
 </p>
-<h1 align="left" style="font-size: 10px; font-weight: 200; margin: 0 0 12px 0; color: #c9d1d9;">este perfil consiste em repositórios para soluções web</h1>
+<p align="left" style="font-size: 11px; font-weight: 200; margin: 8px 0 0 0; color: #c9d1d9;">
+  este perfil consiste em repositórios para soluções web.
+</p>
