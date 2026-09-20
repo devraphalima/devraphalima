@@ -7,7 +7,7 @@
 <br><br><br><br><br><br><br><br>
 <p align="left"> <img src="./tecnologias-heading.svg" alt="Tecnologias" height="30px" /></p>
 
-<p align="left" style="padding-left: 24px;">
+<p align="left" style="padding-left: 38px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
