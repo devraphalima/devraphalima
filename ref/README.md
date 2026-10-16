@@ -37,10 +37,10 @@
 
 ## Contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/raphael-ferreirall-dev/">
+  <a href="https://www.linkedin.com/in/devraphalima/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:raphaelferreiralldev@gmail.com">
+  <a href="mailto:devraphalima@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>

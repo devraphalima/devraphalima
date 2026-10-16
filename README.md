@@ -40,10 +40,10 @@
 
 <p align="left"><img src="./contato-heading.svg" alt="Contato" height="30px" /></p>
 <p align="left">
-  <a href="https://www.linkedin.com/in/raphael-ferreirall-dev/">
+  <a href="https://www.linkedin.com/in/devraphalima/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/raphaferreiralldev/">
+  <a href="https://www.instagram.com/devraphalima/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30" />
   </a>&nbsp;&nbsp;
   <a href="mailto:devraphalima@gmail.com">
